@@ -24,7 +24,7 @@ Our mission from this project is to develop a modern responsive free and open so
 
 ## Main Live Demo
 
-https://labinatorsolutions.github.io/stockfish-chess-web-gui/
+https://ultrontheai.github.io/Stockfish-15.1-Browser-Version/
 
 
 ## Other Implementations - (Included For Reference)
