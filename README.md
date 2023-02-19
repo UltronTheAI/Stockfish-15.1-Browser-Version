@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![jQuery](https://img.shields.io/badge/jquery-3.6.0-blue)
 
-![Stockfish 10 Chess Engine](https://img.shields.io/badge/Stockfish_Chess_Engine-10-43AC6A)
+![Stockfish 10 Chess Engine](https://img.shields.io/badge/Stockfish_Chess_Engine-15-43AC6A)
 ![Chessboard.JS](https://img.shields.io/badge/Chessboard.JS-1.0.0-brown)
 ![PGN Viewer](https://img.shields.io/badge/LT_PGN_Viewer-3.498-teal)
 
